@@ -1,0 +1,31 @@
+X b X X X X X X X X X c X X X X d X X X X X X X X X a X
+X . . . . . . . . . . . . . . . . . . . . . . . . . . X
+X . X X X X . X X X X X . X X . X X X X X . X X X X . X
+X * X X X X . X X X X X . X X . X X X X X . X X X X * X
+X . X X X X . X X X X X . X X . X X X X X . X X X X . X
+X . . . . . . . . . . . . X X . . . . . . . . . . . . X
+X . X X X X . X X . X X   X X   X X . X X . X X X X . X
+X . X X X X . X X . X X   X X   X X . X X . X X X X . X
+X . . . . . . X X . . . . X X . . . . X X . . . . . . e
+X X X X X X . X X X X X . X X . X X X X X . X X X X X X
+X X X X X X . X X X X X * X X * X X X X X . X X X X X X
+X X X X X X . X X . . . . . . . . . . X X . X X X X X X
+X X X X X X . X X . X X X = = X X X . X X . X X X X X X
+X X X X X X . X X . X X X X X X X X . X X . X X X X X X
+b           .       X X X X X X X X       .           a
+X X X * X X . X X   X X X X X X X X   X X . X X * X X X
+X X X   X X . X X   X X X X X X X X   X X . X X   X X X
+X       X X . X X                     X X . X X       X
+X   X X X X . X X   X X X X X X X X   X X . X X X X   X
+X   X X X X . X X   X X X X X X X X   X X . X X X X   X
+e . . . . . . . . . . . . X X . . . . . . . . . . . . X
+X . X X X X . X X X X X . X X . X X X X X . X X X X . X
+X . X X X X . X X X X X . X X . X X X X X . X X X X . X
+X * . . X X . . . . . . . S S . . . . . . . X X . . * X
+X X X . X X . X X . X X X X X X X X . X X . X X . X X X
+X X X . X X . X X . X X X X X X X X . X X . X X . X X X
+X . . . X X . X X . . . . X X . . . . X X . X X . . . X
+X . X X X X . X X X X X . X X . X X X X X . X X X X . X
+X . X X X X . X X X X X . X X . X X X X X . X X X X . X
+X . . . . . . . . . . . . . . . . . . . . . . . . . . X
+X a X X X X X X X X X d X X X X c X X X X X X X X X b X
